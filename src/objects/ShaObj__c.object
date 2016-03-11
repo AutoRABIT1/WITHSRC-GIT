@@ -114,4 +114,10 @@
         <fields>CreatedById</fields>
         <label>ShaEZCL</label>
     </compactLayouts>
+    <compactLayouts>
+        <fullName>ShaEZCl2</fullName>
+        <fields>CreatedById</fields>
+        <fields>LastModifiedById</fields>
+        <label>ShaEZCl2</label>
+    </compactLayouts>
 </CustomObject>
