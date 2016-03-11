@@ -83,4 +83,14 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fieldSets>
+        <fullName>ShaEZFS</fullName>
+        <availableFields>
+            <field>CreatedById</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>Hello</description>
+        <label>ShaEZFS</label>
+    </fieldSets>
 </CustomObject>

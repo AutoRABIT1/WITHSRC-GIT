@@ -80,6 +80,10 @@
         <name>EscalationRule</name>
     </types>
     <types>
+        <members>ShaObj__c.ShaEZFS</members>
+        <name>FieldSet</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
     </types>
