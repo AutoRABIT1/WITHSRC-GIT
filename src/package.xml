@@ -54,6 +54,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>ShaObj__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
