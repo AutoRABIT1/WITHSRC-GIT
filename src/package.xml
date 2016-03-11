@@ -11,6 +11,7 @@
         <name>Community</name>
     </types>
     <types>
+        <members>ShaObj__c.ShaCL</members>
         <members>ShaObj__c.ShaEZCL</members>
         <members>ShaObj__c.ShaEZCl2</members>
         <name>CompactLayout</name>

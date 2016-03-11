@@ -120,4 +120,9 @@
         <fields>LastModifiedById</fields>
         <label>ShaEZCl2</label>
     </compactLayouts>
+    <compactLayouts>
+        <fullName>ShaCL</fullName>
+        <fields>CreatedById</fields>
+        <label>ShaCL</label>
+    </compactLayouts>
 </CustomObject>
