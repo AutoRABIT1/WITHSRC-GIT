@@ -11,6 +11,10 @@
         <name>Community</name>
     </types>
     <types>
+        <members>ShaObj__c.ShaEZCL</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>

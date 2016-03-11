@@ -109,4 +109,9 @@
         <description>Test</description>
         <label>ShaEZFS2</label>
     </fieldSets>
+    <compactLayouts>
+        <fullName>ShaEZCL</fullName>
+        <fields>CreatedById</fields>
+        <label>ShaEZCL</label>
+    </compactLayouts>
 </CustomObject>
