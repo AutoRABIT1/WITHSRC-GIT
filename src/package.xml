@@ -81,6 +81,7 @@
     </types>
     <types>
         <members>ShaObj__c.ShaEZFS</members>
+        <members>ShaObj__c.ShaEZFS2</members>
         <name>FieldSet</name>
     </types>
     <types>

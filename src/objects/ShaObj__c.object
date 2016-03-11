@@ -75,6 +75,7 @@
     <sharingModel>ReadWrite</sharingModel>
     <fields>
         <fullName>ShaEZCF2__c</fullName>
+        <description>hello testing jghukgsekj</description>
         <externalId>false</externalId>
         <label>ShaEZCF2</label>
         <length>10</length>
@@ -90,7 +91,22 @@
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </availableFields>
+        <availableFields>
+            <field>LastModifiedDate</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
         <description>Hello</description>
         <label>ShaEZFS</label>
+    </fieldSets>
+    <fieldSets>
+        <fullName>ShaEZFS2</fullName>
+        <availableFields>
+            <field>OwnerId</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </availableFields>
+        <description>Test</description>
+        <label>ShaEZFS2</label>
     </fieldSets>
 </CustomObject>
