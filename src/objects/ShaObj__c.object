@@ -138,6 +138,7 @@
     <recordTypes>
         <fullName>New</fullName>
         <active>true</active>
+        <description>Hello</description>
         <label>New</label>
     </recordTypes>
 </CustomObject>
