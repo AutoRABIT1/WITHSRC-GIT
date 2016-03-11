@@ -125,4 +125,14 @@
         <fields>CreatedById</fields>
         <label>ShaCL</label>
     </compactLayouts>
+    <fields>
+        <fullName>ShaCF1__c</fullName>
+        <externalId>false</externalId>
+        <label>ShaCF1</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
