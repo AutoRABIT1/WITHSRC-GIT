@@ -135,4 +135,9 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <recordTypes>
+        <fullName>New</fullName>
+        <active>true</active>
+        <label>New</label>
+    </recordTypes>
 </CustomObject>

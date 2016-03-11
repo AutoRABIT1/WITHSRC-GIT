@@ -263,6 +263,7 @@
     <types>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
+        <members>ShaObj__c.New</members>
         <name>RecordType</name>
     </types>
     <types>
