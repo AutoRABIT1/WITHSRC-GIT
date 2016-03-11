@@ -73,4 +73,14 @@
     <pluralLabel>ShaObjs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <fields>
+        <fullName>ShaEZCF2__c</fullName>
+        <externalId>false</externalId>
+        <label>ShaEZCF2</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
